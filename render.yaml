@@ -3,7 +3,7 @@ services:
   - type: web
     name: AList+Aria2
     env: docker
-    repo: https://github.com/V-Official-233/AList-Aria2-Render.git # optional
+    repo: https://github.com/guanke1000/AList-Render.git # optional
     region: Singapore # optional (defaults to oregon)
     plan: free # optional (defaults to starter)
     healthCheckPath: /
